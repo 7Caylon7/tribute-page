@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(230, 1, 255);
+}
+
+h1,h2{
+    padding: 30px;
+    text-align: center;
+}
+
+main {
+    text-align: justify;
+    background-color: rgb(233, 218, 115);
+}
+
+img{
+    width: 100%;
+    border-radius: 2px;
+}
+
+li{
+    margin-left: 300px;
+}
+
+blockquote{
+    text-align: center;
+}
+
+.autor{
+    text-align: center;
+    padding-bottom: 30px;
+}
